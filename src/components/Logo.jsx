@@ -1,5 +1,5 @@
 import { Image } from 'react-native';
-import logoPrincipal from '../../assets/logoPrincipal.jpg'
+import logoPrincipal from '../../assets/logoPrincipal.png'
 
 const Logo = () => {
     return (
